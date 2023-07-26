@@ -81,7 +81,7 @@ def book_seat(list_form):
 
 def main_handler():
     user_data = [  # 账号 密码
-        ['******', '******']
+        ['250948107', '107722112']
     ]
     a = time.time()
     book_seat(user_data)  # 立刻预约
